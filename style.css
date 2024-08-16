@@ -224,7 +224,7 @@ hr {
 .footer_container {
   display: flex;
   gap: 3rem;
-  padding-top: 100px;
+  padding-top: 50px;
   padding-bottom: 80px;
   padding-left: 170px;
   text-align: center;
@@ -235,10 +235,14 @@ hr {
   gap: 3rem;
   padding-top: 30px;
 }
+.footer_left_1 img {
+  padding-top: 40px;
+}
 .footer_left_2 {
   display: flex;
   flex-direction: column;
   gap: 1rem;
+  margin-top: 40px;
 }
 .footer_left_2 a {
   text-decoration: none;
@@ -250,7 +254,7 @@ hr {
   font-size: 15px;
 }
 vr {
-  border-left: 2px solid white;
+  border-left: 1px solid white;
   height: 400px;
 }
 .footer_right {
